@@ -4,7 +4,6 @@ Created on Wed Jul  8 00:18:47 2020
 
 @author: manoj
 """
-
 class TreeNode:
     def __init__ (self,val=0,left=None,right=None):
         self.val = val
